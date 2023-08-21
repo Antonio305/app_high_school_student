@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "249244186743",
+    "project_id": "prepaalumnos-14629",
+    "storage_bucket": "prepaalumnos-14629.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249244186743:android:73ddfa07f75ac19ffdae72",
+        "android_client_info": {
+          "package_name": "com.example.prepa_estudiantes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249244186743-2phed9tgptud4boctqbjmpem911rpd1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDVQsSSX2xJwIdpkJjTgXqPYcqftbCaC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249244186743-2phed9tgptud4boctqbjmpem911rpd1r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "249244186743-s7ubr05mh45hvul4cr3ncsjqchg3n3ce.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.proyectoPrepa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249244186743:android:4308fbacccb6a0fffdae72",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_prepa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249244186743-2phed9tgptud4boctqbjmpem911rpd1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDVQsSSX2xJwIdpkJjTgXqPYcqftbCaC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249244186743-2phed9tgptud4boctqbjmpem911rpd1r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "249244186743-s7ubr05mh45hvul4cr3ncsjqchg3n3ce.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.proyectoPrepa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
